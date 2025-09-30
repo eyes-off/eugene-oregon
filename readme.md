@@ -29,7 +29,7 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 | Stops Initiated by Flock Alerts            | 8/17/2025 | Closed - No Records    |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3774_StopsInitiatedByFlockAlerts) |
 
 ## Audit Data
-* Local Search Audit Logs  (i.e., Searches preformed by EPD officers)
+* [Local Search Audit Logs](https://github.com/eyes-off/eugene-oregon/tree/main/FlockAuditLogs)  (i.e., Searches preformed by EPD officers)
 
 ## Audit Reports
 | Publish Date | Name                                                           | Link |
