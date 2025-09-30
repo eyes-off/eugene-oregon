@@ -4,7 +4,7 @@
 https://www.muckrock.com/foi/eugene-6582/alpr-flock-policies-training-and-verification-procedures-for-enforcement-191531/
 
 ## Status
-* Open - Paid
+* Closed - Documents Provided
 
 ## Cost Estimate
 * $13.31
