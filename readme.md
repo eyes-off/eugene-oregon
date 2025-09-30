@@ -34,5 +34,5 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 ## Audit Reports
 | Publish Date | Name                                                           | Link |
 |--------------|----------------------------------------------------------------|------|
-| 9/22/2025    | EPD Local Flock Search Audit - Consecutive Day Anomalies       | Link](https://github.com/eyes-off/eugene-oregon/blob/main/FlockAuditLogs/Reports/EPDLocalFlockSearchAudit_ConsecutiveDayAnomalies_2025-09-22.pdf) |
-| 9/22/2025    | EPD Local Flock Search Audit - Searches Out-Of-Shift Anomalies | Link](https://github.com/eyes-off/eugene-oregon/blob/main/FlockAuditLogs/Reports/EPDLocalFlockSearchAudit_SearchesOutOfShiftAnomalies_2025-09-23.pdf) |
+| 9/22/2025    | EPD Local Flock Search Audit - Consecutive Day Anomalies       | [Link](https://github.com/eyes-off/eugene-oregon/blob/main/FlockAuditLogs/Reports/EPDLocalFlockSearchAudit_ConsecutiveDayAnomalies_2025-09-22.pdf) |
+| 9/22/2025    | EPD Local Flock Search Audit - Searches Out-Of-Shift Anomalies | [Link](https://github.com/eyes-off/eugene-oregon/blob/main/FlockAuditLogs/Reports/EPDLocalFlockSearchAudit_SearchesOutOfShiftAnomalies_2025-09-23.pdf) |
