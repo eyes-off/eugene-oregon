@@ -15,8 +15,8 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 |--------------------------------|-----------|--------------------------------------------|------------------|--------|
 | Flock Camera Locations         | 6/12/2025 | Closed - DA Appeal Denied <br>Reviewing Options |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-2738_CameraLocations) |
 | Inventory of Surveillance Tech | 8/17/2025 | Open - Fee Issued                          | $426.16 <br>Paid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3762_InventoryOfSurveillanceTech) |
-| Flock Safety ALPR Audits       | 8/25/2025 | Acknowledged                               |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
-| Flock User Accounts            | 9/30/2025 | Submitted                                  |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-xxxx_FlockUserAccount%5B202509-01%5D) |
+| Flock Safety ALPR Audits       | 8/25/2025 | Time Extension                               |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
+| Flock User Accounts            | 9/30/2025 | Acknowledged                                  |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4432_FlockUserAccount%5B202509-01%5D) |
 
 # Inactive Requests
 | Label                                      | Submitted | Status                 | Fee                 | Link   |
