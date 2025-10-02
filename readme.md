@@ -17,19 +17,20 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 | Inventory of Surveillance Tech | 8/17/2025 | Open - Fee Issued                          | $426.16 <br>Paid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3762_InventoryOfSurveillanceTech) |
 | Flock Safety ALPR Audits       | 8/25/2025 | Time Extension                               |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
 | Flock User Accounts            | 9/30/2025 | Acknowledged                                  |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4432_FlockUserAccount%5B202509-01%5D) |
+| Flock Deployment Plan          | 10/2/2025 | Acknowledged                                  |                  | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4476_FlockDeploymentPlan%5B2510-04%5D) |
 
 # Inactive Requests
 | Label                                      | Submitted | Status                 | Fee                 | Link   |
 |--------------------------------------------|-----------|------------------------|---------------------|--------|
 | Flock Permits                              | 7/3/2025  | Closed <br>No Records  | $100 <br>Paid       | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3072_Permits) |
-| Flock Deployment Plan                      | 7/3/2025  | Closed <br>Fee Charged | $1438.29 <br>Unpaid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3073_DeploymentPlan) |
+| Flock Deployment Plan (Broad)              | 7/3/2025  | Closed <br>Fee Charged | $1438.29 <br>Unpaid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3073_DeploymentPlan) |
 | Flock Procurement Rationale                | 8/17/2025 | Closed - Fulfilled     | $13.25 <br>Paid     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3771_FlockProcurementRationale) |
 | Flock Placement Methodologies              | 8/17/2025 | Closed - No Records    |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3772_FlockPlacementMethodologies) |
 | Flock Trainings, Verification, Enforcement | 8/27/2025 | Closed - Fulfilled     | $13.31 <br>Paid     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3773_FlockPoliciesAndTraining) |
 | Stops Initiated by Flock Alerts            | 8/17/2025 | Closed - No Records    |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3774_StopsInitiatedByFlockAlerts) |
 
 ## Audit Data
-* [Local Search Audit Logs](https://github.com/eyes-off/eugene-oregon/tree/main/FlockAuditLogs)  (i.e., Searches preformed by EPD officers)
+[Local Search Audit Logs](https://github.com/eyes-off/eugene-oregon/tree/main/FlockAuditLogs)  (i.e., Searches preformed by EPD officers)
 
 ## Audit Reports
 | Publish Date | Name                                                           | Link |
