@@ -1,15 +1,17 @@
-# PRR - List of Public Records Requests, June-Oct 2025 [2510-06]
+# PRR - List of Flock Public Records Requests, June-Oct 2025 [2510-06]
 
 ## Request Id:
-* PRR-2025-787
+* EPD-2025-4537
 
 ## Status
-* Closed - Fulfilled
+* Open
 
 ## Request 
 To the Public Records Manager,
 
-I request a log of submitted public records requests as submitted through the justfoia.com application from 6/1/2025 to the present. I’m making this request since there are no functioning search features made available online by the city, so this is the only method I have of viewing previously submitted requests.
+I request a log of submitted public records requests as submitted through the justfoia.com application from 6/1/2025 to the present that have the word Flock or ALPR in the description.
+
+I’m making this request since there are no functioning search features made available online by the city, so this is the only method I have of viewing previously submitted requests.
 
 Please utilize the advanced reporting features within the justfoia.com application to generate this list. I am particularly interested in accessing the following details for each request:
 * Request ID or Reference Number
