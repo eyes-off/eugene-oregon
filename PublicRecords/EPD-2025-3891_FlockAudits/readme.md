@@ -6,6 +6,9 @@ https://www.muckrock.com/foi/eugene-6582/stops-initiated-or-influenced-by-flocka
 ## Status
 * Open
 
+## Cost Estimate
+* $291,503.52
+
 ## Request 
 To the Public Records Manager,
 
@@ -25,3 +28,5 @@ Thank you in advance for your cooperation in this matter. I look forward to rece
 Sincerely,
 Seth May
 
+10/17/2025 - Scope Adjustment (to avoid the $300k fee)
+For both record sets, please redacting the user name, plate number, and case number fields. I do not need them, and hopefully this will eliminate the need for manual redactions.
