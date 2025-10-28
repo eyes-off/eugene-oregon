@@ -4,7 +4,7 @@
 * EPD-2025-4476
 
 ## Status
-* Open
+* Closed - Records Denied
 
 ## Request 
 To the Public Records Manager,
