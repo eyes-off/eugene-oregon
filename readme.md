@@ -22,6 +22,7 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
+| Flock Safety Licence Plate Records         | 10/5/2025 | Closed - Records Denied                          |                     | [Link]() |
 | Flock Deployment Plan                      | 10/2/2025 | Closed - Records Denied                          |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4476_FlockDeploymentPlan%5B2510-04%5D) |
 | List Of Flock PRRs Jun-Oct(EPD)            | 10/6/2025 | Closed - Fulfilled                               |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4537_ListOfFlockPRRsJuneToOct2025%5B2510-06%5D) |
 | List Of PRRs June-Oct	(EPD)                | 10/6/2025 | Closed - Fulfilled                               |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4532_ListOfPRRsJuneToOct2025%5B2510-06%5D) |
