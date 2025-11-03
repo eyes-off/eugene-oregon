@@ -15,9 +15,10 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
 | Flock Camera Locations                     | 6/12/2025 | Closed - DA Appeal Denied <br>Reviewing Options  |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-2738_CameraLocations) |
 | Inventory of Surveillance Tech             | 8/17/2025 | Open - Fee Issued                                | $426.16 <br>Paid    | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3762_InventoryOfSurveillanceTech) |
-| Flock Safety ALPR Audits                   | 8/25/2025 | Open - Fee Issued                                | $$291,503.52 <br>Unpaid                   | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
+| Flock Safety ALPR Audits                   | 8/25/2025 | Open - Fee Issued                                | $$291,503.52 <br>Unpaid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
 | Flock User Accounts                        | 9/30/2025 | Acknowledged                                     |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4432_FlockUserAccount%5B202509-01%5D) |
-| License Plate records			             | 10/5/2025 | Open                                  	        |                     | 
+| Oregon Retail Theft Grant Reports          | 11/3/2025 | Open                                  	        |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4979_ORTGrantReports%5B2511-12%5D)
+| Private Businesses Sharing Flock Data      | 11/3/2025 | Open                                  	        |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-49XX_BusinessesSharingFlockData%5B2511-13%5D)
 
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
