@@ -4,7 +4,7 @@
 https://www.muckrock.com/foi/eugene-6582/inventory-of-surveillance-technologies-products-and-services-191534/
 
 ## Status
-* Open - Paid
+* Closed - Fulfilled
 
 ## Cost Estimate
 * $426.16

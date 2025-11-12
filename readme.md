@@ -14,7 +14,6 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
 | Flock Camera Locations                     | 6/12/2025 | Closed - DA Appeal Denied <br>Reviewing Options  |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-2738_CameraLocations) |
-| Inventory of Surveillance Tech             | 8/17/2025 | Open - Fee Issued                                | $426.16 <br>Paid    | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3762_InventoryOfSurveillanceTech) |
 | Flock Safety ALPR Audits                   | 8/25/2025 | Open - Fee Issued                                | $$291,503.52 <br>Unpaid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
 | Flock User Accounts                        | 9/30/2025 | Acknowledged                                     |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4432_FlockUserAccount%5B202509-01%5D) |
 | Oregon Retail Theft Grant Reports          | 11/3/2025 | Open                                  	        |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4979_ORTGrantReports%5B2511-12%5D)
@@ -23,6 +22,7 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
+| Inventory of Surveillance Tech             | 8/17/2025 | Closed - Fulfilled                               | $426.16 <br>Paid    | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3762_InventoryOfSurveillanceTech) |
 | Flock Safety Licence Plate Records         | 10/5/2025 | Closed - Records Denied                          |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4510_RequestForLicensePlateRecords) |
 | Flock Deployment Plan                      | 10/2/2025 | Closed - Records Denied                          |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4476_FlockDeploymentPlan%5B2510-04%5D) |
 | List Of Flock PRRs Jun-Oct(EPD)            | 10/6/2025 | Closed - Fulfilled                               |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4537_ListOfFlockPRRsJuneToOct2025%5B2510-06%5D) |
