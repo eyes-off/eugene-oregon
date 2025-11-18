@@ -1,0 +1,55 @@
+{
+  "subject": "FW: New User Linked to Existing User using Single-Sign-On",
+  "from": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "to": {
+    "name": "Flock Safety Support",
+    "address": "support@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "All of our Admins are receiving the below message for each new user.  We have about 150 people that will be going live over the next week.  Can we get these notices disabled please.\n\nDerek\n \nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Cell � 541-743-6192\n \n\n \nFrom: hello=flocksafety.com@mail.flocksafety.com <hello=flocksafety.com@mail.flocksafety.com> On Behalf Of hello@flocksafety.com\nSent: Monday, June 2, 2025 9:52 AM\nTo: DEWITT Derek A <DDeWitt@eugene-or.gov>\nSubject: New User Linked to Existing User using Single-Sign-On\n \n[EXTERNAL ?]\n \n <https://flock-public-assets.s3.amazonaws.com/flock-safety-dark-green-logo.png> \n \n \n \nWelcome to the Flock\n \nA existing Flock user in your organization has connected to single sign on. Please review the following details. \n\t\nName: HANNEMAN Brad A \nEmail: BHanneman@eugene-or.gov BHanneman@eugene-or.gov  \nRole: Street Crimes \n \n\t\n \n \n \n \n \nProblems or questions?\n \n support@flocksafety.com \n\nsupport@flocksafety.com support@flocksafety.com \n\n support@flocksafety.com \n\n+1 (866) 901-1781 <tel:866-901-1781>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1261,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 1
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "All of our Admins are receiving the below message for each new user.  We have about 150 people that will be going live over the next week.  Can we get these notices disabled please.\n\nDerek\n \nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Cell � 541-743-6192"
+    },
+    {
+      "from": "hello=flocksafety.com@mail.flocksafety.com <hello=flocksafety.com@mail.flocksafety.com> On Behalf Of hello@flocksafety.com",
+      "sent": "Monday, June 2, 2025 9:52 AM",
+      "to": "DEWITT Derek A <DDeWitt@eugene-or.gov>",
+      "cc": null,
+      "subject": "New User Linked to Existing User using Single-Sign-On",
+      "body": "[EXTERNAL ?]\n \n <https://flock-public-assets.s3.amazonaws.com/flock-safety-dark-green-logo.png> \n \n \n \nWelcome to the Flock\n \nA existing Flock user in your organization has connected to single sign on. Please review the following details. \n\t\nName: HANNEMAN Brad A \nEmail: BHanneman@eugene-or.gov BHanneman@eugene-or.gov  \nRole: Street Crimes \n \n\t\n \n \n \n \n \nProblems or questions?\n \n support@flocksafety.com \n\nsupport@flocksafety.com support@flocksafety.com \n\n support@flocksafety.com \n\n+1 (866) 901-1781 <tel:866-901-1781>"
+    }
+  ]
+}

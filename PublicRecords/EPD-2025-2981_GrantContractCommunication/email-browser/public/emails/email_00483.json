@@ -1,0 +1,47 @@
+{
+  "subject": "Flock login",
+  "from": {
+    "name": "DEWITT Derek A",
+    "address": "/O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=1F064F8867EB47EAA4104D2690E0AB57-CEPDDAD",
+    "type": "EX"
+  },
+  "to": {
+    "name": "Gaby Mahoney",
+    "address": "gaby.mahoney@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Good morning,\n\nI�ve been locked out of my account since Friday.  Our IT is working with flock support but it�s slow coming and I have no access to anything.  We are still waiting on a call back to get access. Just FYI\n\nDerek\n\nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Celll � 541-743-6192",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 466,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Good morning,\n\nI�ve been locked out of my account since Friday.  Our IT is working with flock support but it�s slow coming and I have no access to anything.  We are still waiting on a call back to get access. Just FYI\n\nDerek\n\nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Celll � 541-743-6192"
+    }
+  ]
+}

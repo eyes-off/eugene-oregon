@@ -1,0 +1,47 @@
+{
+  "subject": "Missing Equipment - P#032 Chambers St @ 25th Ave NB",
+  "from": {
+    "name": "Flock Safety Support",
+    "address": "support@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nGood afternoon,\n \n\nWhile responding to an alarm for camera P#032 Chambers St @ 25th Ave NB, the technician discovered that the top half of the pole along with equipment was missing (see attachment). We will need to replace the equipment to ensure the location is functioning properly as soon as possible. This is an interesting situation as location P#043 W 29th Ave @ Willamette St WB is a new install. It's been installed a bit under a month. We do waive the fees for reinstallation for location implemented within 30 days. \n\n \n\nI have a few questions to ensure this process goes smoothly:\n\n1.\tDo we have permission to move forward with replacing the equipment?\n2.\tIs the Flock pole still on site? If yes, please leave it as is; this will be a marker for 811 digging approval needs.\n3.\tWould you happen to know where the equipment (ie. camera) might be? If yes and stored away, please confirm the address where we can pick up the equipment, and if there is anything we should reference/someone we should ask for upon doing so; we understand that personnel availability changes frequently in a public safety setting, so we are happy to connect with administrative staff to obtain equipment if they have a more flexible schedule.\n\nPlease let me know if you have any questions.\n \n\nStay safe,\n\nGeorge\n\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000nGkFa&from=ext> \n\nthread::p1mSgP5vIFiWXhOz4Qq6sQ4::",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1468,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nGood afternoon,\n \n\nWhile responding to an alarm for camera P#032 Chambers St @ 25th Ave NB, the technician discovered that the top half of the pole along with equipment was missing (see attachment). We will need to replace the equipment to ensure the location is functioning properly as soon as possible. This is an interesting situation as location P#043 W 29th Ave @ Willamette St WB is a new install. It's been installed a bit under a month. We do waive the fees for reinstallation for location implemented within 30 days. \n\n \n\nI have a few questions to ensure this process goes smoothly:\n\n1.\tDo we have permission to move forward with replacing the equipment?\n2.\tIs the Flock pole still on site? If yes, please leave it as is; this will be a marker for 811 digging approval needs.\n3.\tWould you happen to know where the equipment (ie. camera) might be? If yes and stored away, please confirm the address where we can pick up the equipment, and if there is anything we should reference/someone we should ask for upon doing so; we understand that personnel availability changes frequently in a public safety setting, so we are happy to connect with administrative staff to obtain equipment if they have a more flexible schedule.\n\nPlease let me know if you have any questions.\n \n\nStay safe,\n\nGeorge\n\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000nGkFa&from=ext> \n\nthread::p1mSgP5vIFiWXhOz4Qq6sQ4::"
+    }
+  ]
+}

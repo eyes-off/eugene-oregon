@@ -1,0 +1,47 @@
+{
+  "subject": "MMS RFS 641190, [ULT10] Utility Locate Ticket, 2880 WILLAMETTE ST NEAR W 29TH AVE, EUGENE",
+  "from": {
+    "name": "talia.e.voelsch@ci.eugene.or.us",
+    "address": "talia.e.voelsch@ci.eugene.or.us",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "michelle.mishoe@flocksafety.com",
+    "address": "michelle.mishoe@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Talia has emailed you an RFS with the following note:\n\nFyi, No city facilities at this location. Thanks Tia\n\nClick here to view the RFS https://ceapps2.eugene-or.gov/DocumentViewer/Email/ViewDocument/HmVK9RbkTzfTbWvgbsKJxqVMXcZ0ya9Qv8rR42HOwdo1",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 244,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Talia has emailed you an RFS with the following note:\n\nFyi, No city facilities at this location. Thanks Tia\n\nClick here to view the RFS https://ceapps2.eugene-or.gov/DocumentViewer/Email/ViewDocument/HmVK9RbkTzfTbWvgbsKJxqVMXcZ0ya9Qv8rR42HOwdo1"
+    }
+  ]
+}

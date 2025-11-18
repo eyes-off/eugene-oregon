@@ -1,0 +1,47 @@
+{
+  "subject": "Question about locations for LPR",
+  "from": {
+    "name": "BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX"
+  },
+  "to": {
+    "name": "JONES Bret",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=c65f8fbf10274ed09c5d6d526763bc26-CEWEBCJ",
+    "type": "EX"
+  },
+  "cc": {
+    "name": "DEWITT Derek A;Matt Triana",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD;matt.triana@flocksafety.com",
+    "type": "EX;SMTP"
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Bret, \n\n \n\nI have copied Det. Dewitt and Matt Triana, Flock, to this email.  Can you assist with clarification on 3 locations that we are trying to install LPR cameras?  I attached a word document with a location description/picture for your reference.  We need to confirm what permissions will be necessary to install or if we need to go through ODOT or if COE owned.  \n\n \n\nThank you \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 530,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Bret, \n\n \n\nI have copied Det. Dewitt and Matt Triana, Flock, to this email.  Can you assist with clarification on 3 locations that we are trying to install LPR cameras?  I attached a word document with a location description/picture for your reference.  We need to confirm what permissions will be necessary to install or if we need to go through ODOT or if COE owned.  \n\n \n\nThank you \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work"
+    }
+  ]
+}

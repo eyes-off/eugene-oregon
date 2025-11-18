@@ -1,0 +1,63 @@
+{
+  "subject": "RE: Action Required: Complete Your Flock Safety Account Activation",
+  "from": {
+    "name": "Flock Safety Support",
+    "address": "support@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "WILLIAMS Jeremy K",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1267c3a88a7c4c00a95015352fffa6f6-CEPDJKW",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "You don't often get email from support@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nHi there,\n \nThank you for contacting support! You should receive an email in your inbox soon! Please be sure to check your spam folder if you don't see it in your inbox. \n \n \n \nThank you,\nTressa\n \n \n--------------- Original Message ---------------\nFrom: WILLIAMS Jeremy K [jwilliams@eugene-or.gov]\nSent: 4/17/2025, 11:17 AM\nTo: hello@flocksafety.com\nSubject: RE: Action Required: Complete Your Flock Safety Account Activation\n\n\n\nGood morning,\n\n \n\nCan someone please resend the setup link so I can activate my account?\n\n \n\nThanks!\n\n \n\nJeremy Williams\n\nLieutenant, Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5139 work\n\n \n\n\n\n \n\n \n\n \n\nFrom: hello=flocksafety.com@mail.flocksafety.com <hello=flocksafety.com@mail.flocksafety.com> On Behalf Of hello@flocksafety.com\nSent: Thursday, November 21, 2024 12:27 PM\nTo: WILLIAMS Jeremy K <JWilliams@eugene-or.gov>\nSubject: Action Required: Complete Your Flock Safety Account Activation\n\n \n\n\tYou don't often get email from hello@flocksafety.com hello@flocksafety.com . Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\n\t\n\n[EXTERNAL ?]\n\n \n\n <https://flock-public-assets.s3.amazonaws.com/flock-safety-dark-green-logo.png> \n\n \n\n \n\n \n\nWelcome to the Flock.\n\n \n\nYour Flock Safety account is now active. Please click the box below within the next 96 hours to create your account. \n\n \n\nCREATE YOUR ACCOUNT https://login.flocksafety.com/u/reset-verify?ticket=zWl4fxDuya37JGJyjHbDNysvqjRKr1Cl# \n\n \n\nAfter 96 hours, this link will expire. If 96 hours have passed, please click here https://users.flocksafety.com/passwordReset?email=jwilliams%40eugene-or.gov . \n\nBe sure to save the website to your bookmarks or favorites for easy future access. If you ever have any questions, our Customer Support team is always here for you.\n\n \n\n \n\n \n\n \n\nProblems or questions?\n\n \n\n support@flocksafety.com \n\n\n\nsupport@flocksafety.com support@flocksafety.com \n\n\n\n support@flocksafety.com \n\n\n\n+1 (866) 901-1781\n\n\n\n \n\n\n\n \n\n \n\nTo unsubscribe from this group and stop receiving emails from it, send an email to hello+unsubscribe@flocksafety.com hello+unsubscribe@flocksafety.com .\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000gaerZ&from=ext> \n\nthread::tEpv3M0JL02OcXgG9CD54Q4::",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 2485,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 2
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "You don't often get email from support@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nHi there,\n \nThank you for contacting support! You should receive an email in your inbox soon! Please be sure to check your spam folder if you don't see it in your inbox. \n \n \n \nThank you,\nTressa\n \n \n--------------- Original Message ---------------"
+    },
+    {
+      "from": "WILLIAMS Jeremy K [jwilliams@eugene-or.gov]",
+      "sent": "4/17/2025, 11:17 AM",
+      "to": "hello@flocksafety.com",
+      "cc": null,
+      "subject": "RE: Action Required: Complete Your Flock Safety Account Activation",
+      "body": "Good morning,\n\n \n\nCan someone please resend the setup link so I can activate my account?\n\n \n\nThanks!\n\n \n\nJeremy Williams\n\nLieutenant, Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5139 work"
+    },
+    {
+      "from": "hello=flocksafety.com@mail.flocksafety.com <hello=flocksafety.com@mail.flocksafety.com> On Behalf Of hello@flocksafety.com",
+      "sent": "Thursday, November 21, 2024 12:27 PM",
+      "to": "WILLIAMS Jeremy K <JWilliams@eugene-or.gov>",
+      "cc": null,
+      "subject": "Action Required: Complete Your Flock Safety Account Activation",
+      "body": "You don't often get email from hello@flocksafety.com hello@flocksafety.com . Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\n\t\n\n[EXTERNAL ?]\n\n \n\n <https://flock-public-assets.s3.amazonaws.com/flock-safety-dark-green-logo.png> \n\n \n\n \n\n \n\nWelcome to the Flock.\n\n \n\nYour Flock Safety account is now active. Please click the box below within the next 96 hours to create your account. \n\n \n\nCREATE YOUR ACCOUNT https://login.flocksafety.com/u/reset-verify?ticket=zWl4fxDuya37JGJyjHbDNysvqjRKr1Cl# \n\n \n\nAfter 96 hours, this link will expire. If 96 hours have passed, please click here https://users.flocksafety.com/passwordReset?email=jwilliams%40eugene-or.gov . \n\nBe sure to save the website to your bookmarks or favorites for easy future access. If you ever have any questions, our Customer Support team is always here for you.\n\n \n\n \n\n \n\n \n\nProblems or questions?\n\n \n\n support@flocksafety.com \n\n\n\nsupport@flocksafety.com support@flocksafety.com \n\n\n\n support@flocksafety.com \n\n\n\n+1 (866) 901-1781\n\n\n\n \n\n\n\n \n\n \n\nTo unsubscribe from this group and stop receiving emails from it, send an email to hello+unsubscribe@flocksafety.com hello+unsubscribe@flocksafety.com .\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000gaerZ&from=ext> \n\nthread::tEpv3M0JL02OcXgG9CD54Q4::"
+    }
+  ]
+}

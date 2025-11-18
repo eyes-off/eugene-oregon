@@ -1,0 +1,47 @@
+{
+  "subject": "Axon API Changes",
+  "from": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "to": {
+    "name": "support@flocksafety.com",
+    "address": "support@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Good afternoon,\n \nOur Evidence Team is asking if any of the following changes to the Axon API / Evidence export feature could be added:\n*\tForcing the User field to be non-selectable and using the current user signed in\n*\tForce the Title field to be a static value of �Flock Upload�\n*\tMake the Case Number field mandatory, and require a format of XX-XXXXX\n*\tMake the ID field mandatory, and require a format of XX-XXXXXX\n*\tAdd a field for Category that syncs with the category options in Evidence.com\n \n \nThank you.\n \nTravis Shannon\nSr. Application Support Technician\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541)-682-5806",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 649,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Good afternoon,\n \nOur Evidence Team is asking if any of the following changes to the Axon API / Evidence export feature could be added:\n*\tForcing the User field to be non-selectable and using the current user signed in\n*\tForce the Title field to be a static value of �Flock Upload�\n*\tMake the Case Number field mandatory, and require a format of XX-XXXXX\n*\tMake the ID field mandatory, and require a format of XX-XXXXXX\n*\tAdd a field for Category that syncs with the category options in Evidence.com\n \n \nThank you.\n \nTravis Shannon\nSr. Application Support Technician\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541)-682-5806"
+    }
+  ]
+}

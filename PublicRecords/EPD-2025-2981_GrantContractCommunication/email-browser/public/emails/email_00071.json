@@ -1,0 +1,63 @@
+{
+  "subject": "RE: SSO Users",
+  "from": {
+    "name": "Flock Safety Support",
+    "address": "support@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "SHANNON Travis S",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=acff57caa8e8470ba73707ec653b61f5-CEPDTSS",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nI have been advised that this will require an Engineering ticket for further assistance. I'll let you know once this is resolved. \n \nThank you for your patience in the meantime! \n \nAll the best,\nAlex Culp\n \n \n--------------- Original Message ---------------\nFrom: Flock Safety Support [support@flocksafety.com]\nSent: 5/30/2025, 2:16 PM\nTo: tshannon@eugene-or.gov\nSubject: RE: SSO Users\n\n\nHello, \n\nThank you for giving us a call. \n \nI'm looking into this issue internally. I'll respond here as soon as this is resolved. \n \nStay safe,\nAlex Culp\n \n \n--------------- Original Message ---------------\nFrom: SHANNON Travis S [tshannon@eugene-or.gov]\nSent: 5/30/2025, 1:01 PM\nTo: support@flocksafety.com\nSubject: SSO Users\n\n\n\nGood morning,\n\n \n\nWe recently enabled Azure SSO for our account.\n\n \n\nIt looks like a few email addresses were set incorrectly, so when the user went to sign in, SSO created them a new account instead of linking with their old one. Is there a way to �combine� the accounts so users don�t lose their alerts and settings?\n\n \n\n \n\nThanks,\n\n \n\nTravis Shannon\nSr. Application Support Technician\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n(541)-682-5806\n\n \n\n\n\n \n\n \n\nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com support+unsubscribe@flocksafety.com .\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000lDhP7&from=ext> \n\nthread::grLs6QWRIXq85fUvm5vanQ4::\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000lE2Rz&from=ext>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1648,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 2
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nI have been advised that this will require an Engineering ticket for further assistance. I'll let you know once this is resolved. \n \nThank you for your patience in the meantime! \n \nAll the best,\nAlex Culp\n \n \n--------------- Original Message ---------------"
+    },
+    {
+      "from": "Flock Safety Support [support@flocksafety.com]",
+      "sent": "5/30/2025, 2:16 PM",
+      "to": "tshannon@eugene-or.gov",
+      "cc": null,
+      "subject": "RE: SSO Users",
+      "body": "Hello, \n\nThank you for giving us a call. \n \nI'm looking into this issue internally. I'll respond here as soon as this is resolved. \n \nStay safe,\nAlex Culp\n \n \n--------------- Original Message ---------------"
+    },
+    {
+      "from": "SHANNON Travis S [tshannon@eugene-or.gov]",
+      "sent": "5/30/2025, 1:01 PM",
+      "to": "support@flocksafety.com",
+      "cc": null,
+      "subject": "SSO Users",
+      "body": "Good morning,\n\n \n\nWe recently enabled Azure SSO for our account.\n\n \n\nIt looks like a few email addresses were set incorrectly, so when the user went to sign in, SSO created them a new account instead of linking with their old one. Is there a way to �combine� the accounts so users don�t lose their alerts and settings?\n\n \n\n \n\nThanks,\n\n \n\nTravis Shannon\nSr. Application Support Technician\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n(541)-682-5806\n\n \n\n\n\n \n\n \n\nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com support+unsubscribe@flocksafety.com .\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000lDhP7&from=ext> \n\nthread::grLs6QWRIXq85fUvm5vanQ4::\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000lE2Rz&from=ext>"
+    }
+  ]
+}

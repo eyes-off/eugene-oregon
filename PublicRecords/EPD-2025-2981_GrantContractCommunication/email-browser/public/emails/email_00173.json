@@ -1,0 +1,47 @@
+{
+  "subject": "Traffic Control for Installs",
+  "from": {
+    "name": "BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX"
+  },
+  "to": {
+    "name": "Matt Triana;DEWITT Derek A",
+    "address": "matt.triana@flocksafety.com;/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD",
+    "type": "SMTP;EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Matt, \n\n \n\nI got your voice mail about coordinating traffic control for some installs that may occur this week.  I also got your cell number of XXX-XXX-XXXX.  \n\n \n\nDerek will be back in office this week and can be the point of contact for arranging a marked unit to assist with traffic control.  I was texting with him end of last week.  He anticipates planning to connect with your install techs sometime this week and we briefly talked about the request for assistance for traffic control.  \n\n \n\nOn a separate note, I reached out to the ODOT regional manager and waiting for a call back to discuss moving forward on the locations controlled by ODOT.  I will advise once I hear back.  \n\n \n\nThank you \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 846,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Matt, \n\n \n\nI got your voice mail about coordinating traffic control for some installs that may occur this week.  I also got your cell number of XXX-XXX-XXXX.  \n\n \n\nDerek will be back in office this week and can be the point of contact for arranging a marked unit to assist with traffic control.  I was texting with him end of last week.  He anticipates planning to connect with your install techs sometime this week and we briefly talked about the request for assistance for traffic control.  \n\n \n\nOn a separate note, I reached out to the ODOT regional manager and waiting for a call back to discuss moving forward on the locations controlled by ODOT.  I will advise once I hear back.  \n\n \n\nThank you \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work"
+    }
+  ]
+}

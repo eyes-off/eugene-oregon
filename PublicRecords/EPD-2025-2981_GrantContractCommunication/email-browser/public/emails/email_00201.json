@@ -1,0 +1,47 @@
+{
+  "subject": "MMS RFS 647262, [ULT10] Utility Locate Ticket, 2880 CHAD DR NEAR SUZANNE WAY, EUGENE",
+  "from": {
+    "name": "rcoltrane@eugene-or.gov",
+    "address": "rcoltrane@eugene-or.gov",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "michelle.mishoe@flocksafety.com",
+    "address": "michelle.mishoe@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Ryan has emailed you an RFS with the following note:\n\nFyi, no city facilities at this location. Thanks, Ryan \n\nClick here to view the RFS https://ceapps2.eugene-or.gov/DocumentViewer/Email/ViewDocument/UrI0YbsjeqfEZ3RZSIftRK6kvtzwodLJK35EQL3jFS81",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 246,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Ryan has emailed you an RFS with the following note:\n\nFyi, no city facilities at this location. Thanks, Ryan \n\nClick here to view the RFS https://ceapps2.eugene-or.gov/DocumentViewer/Email/ViewDocument/UrI0YbsjeqfEZ3RZSIftRK6kvtzwodLJK35EQL3jFS81"
+    }
+  ]
+}

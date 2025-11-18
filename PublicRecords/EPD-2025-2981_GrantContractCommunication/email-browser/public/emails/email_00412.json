@@ -1,0 +1,103 @@
+{
+  "subject": "FW: Flock demo",
+  "from": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "to": {
+    "name": "Caroline Fraher",
+    "address": "caroline.fraher@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": "CASSON Margot X",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=eb2bb3b6346b45e1a6a04320ab22296c-041b947f-39",
+    "type": "EX"
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Jake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work\n \n \n\n \nFrom: CASSON Margot X <MCasson@eugene-or.gov> \nSent: Thursday, January 23, 2025 11:23 AM\nTo: BURKE Jacob T <JBurke@eugene-or.gov>; CANNATA Prudence A <PCannata@eugene-or.gov>\nSubject: RE: Flock demo\n \nHello again. I checked with David Mackenzie who is handling the security portion of the software review. He digitally signed the NDA last week, but he hasn�t received access to the security documents yet. \nThe review is pending his receipt of those. \nJake � could you ask your contact to check on receipt of the NDA?\nThanks,\nMargot, ISD\n \n \nFrom: BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov > \nSent: Thursday, January 16, 2025 7:20 PM\nTo: CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >\nSubject: Re: Flock demo\n \nMargot, \n \nI got this response this evening from Flock. \n \nSee below for tech question clarification: \n \n1.\tOn the attached spreadsheet question #7 says: Security documents require a signed NDA so hard copy is not able to be provided. The link provided will unlock the PDF's with a page to digitally sign NDA. We were unable to find the link. Can someone please provide it? \n\thttps://console.whistic.com/v2/request-profile/3c67417e-cc0b-4ec4-a2db-45d3f2066ad1/77280c5d-1d09-4cfc-8788-bff5c86e9ba8 https://console.whistic.com/v2/request-profile/3c67417e-cc0b-4ec4-a2db-45d3f2066ad1/77280c5d-1d09-4cfc-8788-bff5c86e9ba8 \n2.     \n\t*\tDo they have additional information about their update schedule or release timeline?\n\t\tFlock Safety pushes out updates on an as-needed basis with no set timeline. \n\nLet me know if you have any other questions and I will connect you with the Flock IT person.  \n \nThank you \n \nGet Outlook for iOS https://aka.ms/o0ukef \n________________________________\n\nFrom: CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >\nSent: Thursday, January 16, 2025 2:49:33 PM\nTo: BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >\nSubject: RE: Flock demo \n \nHi Jake. Sorry I couldn�t attend the demo this afternoon. Can you ask Flock to answer the two remaining questions ISD has for the software review? \nOr, if you�d prefer I reach out to them can you send me their contact info? \nThanks so much,\nMargot, ISD\n \nFrom: CASSON Margot X \nSent: Monday, January 13, 2025 2:05 PM\nTo: BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >\nSubject: RE: Flock demo\n \nHi Jake. ISD is making progress on the software review of Flock Safety. However, our security team has two questions. \n1.\tOn the attached spreadsheet question #7 says: Security documents require a signed NDA so hard copy is not able to be provided. The link provided will unlock the PDF's with a page to digitally sign NDA. We were unable to find the link. Can someone please provide it?\n2.\tDo they have additional information about their update schedule or release timeline?\nIf you�d rather I reach out to vendor contact Caroline Fraher I�d be happy to do so, but I figured you already have a working relationship with her or someone else from Flock. \nThank you,\n \nMargot Casson\nSoftware Asset Coordinator\nCity of Eugene Information Services Department\nmcasson@eugene-or.gov mcasson@eugene-or.gov \nOffice: 541-682-5676\n \n\nMessages to and from this e-mail address may be subject to disclosure under Oregon Public Records Law\n \nFrom: BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov > \nSent: Tuesday, January 7, 2025 5:49 PM\nTo: CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >\nSubject: Re: Flock demo\n \nExcellent, thank you so much. \n \nGet Outlook for iOS https://aka.ms/o0ukef \n________________________________\n\nFrom: CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >\nSent: Tuesday, January 7, 2025 3:47:47 PM\nTo: BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >\nSubject: RE: Flock demo \n \nThanks for the update. Our network team approved their portion of the software review that Travis submitted, and the final step for approval is the information security review. I don�t anticipate any hiccups with it since Flock�s data is stored in the United States and single sign-on is available. \nI�ve asked the information security team to let me know if they have any questions for Flock prior to your demo with them. I�ll keep you posted. \nThanks,\nMargot, ISD\n \nFrom: BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov > \nSent: Tuesday, January 7, 2025 3:06 PM\nTo: CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >\nCc: CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >\nSubject: Flock demo\n \nGood afternoon, \n \nI had a phone conversation with Flock yesterday.  They will be doing their demo on January 16th from 1pm-4pm at the Eugene Police Department in the Kilcullen room.  There will also be a virtual option to view the demo that I can send out later.  The demo will last approximately 45 minutes to an hour with time set aside for Q/A.  Please let me know if you have any questions. \n \nThank you  \n \n \nJake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 5535,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 7
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Jake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work"
+    },
+    {
+      "from": "CASSON Margot X <MCasson@eugene-or.gov>",
+      "sent": "Thursday, January 23, 2025 11:23 AM",
+      "to": "BURKE Jacob T <JBurke@eugene-or.gov>; CANNATA Prudence A <PCannata@eugene-or.gov>",
+      "cc": null,
+      "subject": "RE: Flock demo",
+      "body": "Hello again. I checked with David Mackenzie who is handling the security portion of the software review. He digitally signed the NDA last week, but he hasn�t received access to the security documents yet. \nThe review is pending his receipt of those. \nJake � could you ask your contact to check on receipt of the NDA?\nThanks,\nMargot, ISD"
+    },
+    {
+      "from": "BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >",
+      "sent": "Thursday, January 16, 2025 7:20 PM",
+      "to": "CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >",
+      "cc": null,
+      "subject": "Re: Flock demo",
+      "body": "Margot, \n \nI got this response this evening from Flock. \n \nSee below for tech question clarification: \n \n1.\tOn the attached spreadsheet question #7 says: Security documents require a signed NDA so hard copy is not able to be provided. The link provided will unlock the PDF's with a page to digitally sign NDA. We were unable to find the link. Can someone please provide it? \n\thttps://console.whistic.com/v2/request-profile/3c67417e-cc0b-4ec4-a2db-45d3f2066ad1/77280c5d-1d09-4cfc-8788-bff5c86e9ba8 https://console.whistic.com/v2/request-profile/3c67417e-cc0b-4ec4-a2db-45d3f2066ad1/77280c5d-1d09-4cfc-8788-bff5c86e9ba8 \n2.     \n\t*\tDo they have additional information about their update schedule or release timeline?\n\t\tFlock Safety pushes out updates on an as-needed basis with no set timeline. \n\nLet me know if you have any other questions and I will connect you with the Flock IT person.  \n \nThank you \n \nGet Outlook for iOS https://aka.ms/o0ukef \n________________________________"
+    },
+    {
+      "from": "CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >",
+      "sent": "Thursday, January 16, 2025 2:49:33 PM",
+      "to": "BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >",
+      "cc": null,
+      "subject": "RE: Flock demo",
+      "body": "Hi Jake. Sorry I couldn�t attend the demo this afternoon. Can you ask Flock to answer the two remaining questions ISD has for the software review? \nOr, if you�d prefer I reach out to them can you send me their contact info? \nThanks so much,\nMargot, ISD"
+    },
+    {
+      "from": "CASSON Margot X",
+      "sent": "Monday, January 13, 2025 2:05 PM",
+      "to": "BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >",
+      "cc": null,
+      "subject": "RE: Flock demo",
+      "body": "Hi Jake. ISD is making progress on the software review of Flock Safety. However, our security team has two questions. \n1.\tOn the attached spreadsheet question #7 says: Security documents require a signed NDA so hard copy is not able to be provided. The link provided will unlock the PDF's with a page to digitally sign NDA. We were unable to find the link. Can someone please provide it?\n2.\tDo they have additional information about their update schedule or release timeline?\nIf you�d rather I reach out to vendor contact Caroline Fraher I�d be happy to do so, but I figured you already have a working relationship with her or someone else from Flock. \nThank you,\n \nMargot Casson\nSoftware Asset Coordinator\nCity of Eugene Information Services Department\nmcasson@eugene-or.gov mcasson@eugene-or.gov \nOffice: 541-682-5676\n \n\nMessages to and from this e-mail address may be subject to disclosure under Oregon Public Records Law"
+    },
+    {
+      "from": "BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >",
+      "sent": "Tuesday, January 7, 2025 5:49 PM",
+      "to": "CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >",
+      "cc": null,
+      "subject": "Re: Flock demo",
+      "body": "Excellent, thank you so much. \n \nGet Outlook for iOS https://aka.ms/o0ukef \n________________________________"
+    },
+    {
+      "from": "CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >",
+      "sent": "Tuesday, January 7, 2025 3:47:47 PM",
+      "to": "BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >; CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >",
+      "cc": null,
+      "subject": "RE: Flock demo",
+      "body": "Thanks for the update. Our network team approved their portion of the software review that Travis submitted, and the final step for approval is the information security review. I don�t anticipate any hiccups with it since Flock�s data is stored in the United States and single sign-on is available. \nI�ve asked the information security team to let me know if they have any questions for Flock prior to your demo with them. I�ll keep you posted. \nThanks,\nMargot, ISD"
+    },
+    {
+      "from": "BURKE Jacob T <JBurke@eugene-or.gov JBurke@eugene-or.gov >",
+      "sent": "Tuesday, January 7, 2025 3:06 PM",
+      "to": "CANNATA Prudence A <PCannata@eugene-or.gov PCannata@eugene-or.gov >",
+      "cc": "CASSON Margot X <MCasson@eugene-or.gov MCasson@eugene-or.gov >",
+      "subject": "Flock demo",
+      "body": "Good afternoon, \n \nI had a phone conversation with Flock yesterday.  They will be doing their demo on January 16th from 1pm-4pm at the Eugene Police Department in the Kilcullen room.  There will also be a virtual option to view the demo that I can send out later.  The demo will last approximately 45 minutes to an hour with time set aside for Q/A.  Please let me know if you have any questions. \n \nThank you  \n \n \nJake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work"
+    }
+  ]
+}

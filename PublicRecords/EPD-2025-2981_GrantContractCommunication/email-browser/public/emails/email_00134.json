@@ -1,0 +1,47 @@
+{
+  "subject": "Flock Safety Case # 01070403",
+  "from": {
+    "name": "Flock Support Acknowledgement",
+    "address": "donotreply@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "SHANNON Travis S",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=acff57caa8e8470ba73707ec653b61f5-CEPDTSS",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "You don't often get email from donotreply@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nThank you for contacting Flock Safety Support. We have received your email and opened a support case # 01070403 for you.\n\nA support team member will review your request and respond within 48 business hours (Monday-Friday, 8 AM - 8 PM EST).\n\nFor urgent assistance, please visit our Help Center https://help.flocksafety.com/  or call us at 1-866-901-1781 during business hours and reference the case number above for immediate support.\n\nStay safe,\nFlock Safety Support\n\n\nOriginal Message:\n\nGood morning,\n\nWe are configuring Microsoft Entra SSO with our Flock dashboard and need the connection ID information. Thank you!\n\n\nhttps://learn.microsoft.com/en-us/entra/identity/saas-apps/flock-safety-tutorial\n\n[cid:image001.png@01DBC95F.B5981280]\n\nTravis Shannon\nSr. Application Support Technician\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541)-682-5806\n\n[cid:image002.png@01DBC95F.B5981280]\n\nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com.  <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000jztLs&from=ext>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1304,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "You don't often get email from donotreply@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nThank you for contacting Flock Safety Support. We have received your email and opened a support case # 01070403 for you.\n\nA support team member will review your request and respond within 48 business hours (Monday-Friday, 8 AM - 8 PM EST).\n\nFor urgent assistance, please visit our Help Center https://help.flocksafety.com/  or call us at 1-866-901-1781 during business hours and reference the case number above for immediate support.\n\nStay safe,\nFlock Safety Support\n\n\nOriginal Message:\n\nGood morning,\n\nWe are configuring Microsoft Entra SSO with our Flock dashboard and need the connection ID information. Thank you!\n\n\nhttps://learn.microsoft.com/en-us/entra/identity/saas-apps/flock-safety-tutorial\n\n[cid:image001.png@01DBC95F.B5981280]\n\nTravis Shannon\nSr. Application Support Technician\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541)-682-5806\n\n[cid:image002.png@01DBC95F.B5981280]\n\nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com.  <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000jztLs&from=ext>"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "subject": "LPR contact",
+  "from": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "to": {
+    "name": "Caroline Fraher;POTTER Kyle;AUSTIN Brian",
+    "address": "caroline.fraher@flocksafety.com;/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=3e28b598bf0249318d8748175cf25ea2-kpotter;/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=ccedb111a4d441ca97dda22effad9b13-baustin",
+    "type": "SMTP;EX;EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Good afternoon,\n\nCaroline, I wanted to connect you with these two guys from Springfield PD.  \n\nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Celll � 541-743-6192",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 335,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Good afternoon,\n\nCaroline, I wanted to connect you with these two guys from Springfield PD.  \n\nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Celll � 541-743-6192"
+    }
+  ]
+}

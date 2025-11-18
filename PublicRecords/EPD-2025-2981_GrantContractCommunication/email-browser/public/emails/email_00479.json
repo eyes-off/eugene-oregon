@@ -1,0 +1,47 @@
+{
+  "subject": "Out Of Office RE: Flock Poles to Existing Poles",
+  "from": {
+    "name": "Gaby Mahoney",
+    "address": "gaby.mahoney@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nHello, \n\nThank you for reaching out. I will be out of office Friday, June 27th. If you need technical assistance, please reach out to support@flocksafety.com support@flocksafety.com . \n\nIf this is an urgent issue & you need to work with a Customer Success Manager, please reach out to Amanda (amanda.spees@flocksafety.com amanda.spees@flocksafety.com )\n\nThank you\n\n\n-- \n\n\t\nGaby Mahoney\nCustomer Success Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n\n https://www.facebook.com/flocksafety \n\n https://www.youtube.com/c/FlockSafety \n\n <https://gifo.srv.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n\t\n \n\n\t\n https://www.fox5atlanta.com/news/over-6m-stolen-electronics-recovered-massive-georgia-porch-pirate-operation?utm_campaign=EmailSignature&utm_source=Success&utm_medium=Wisestamp \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/zpnzXLAamrJq.png>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 883,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nHello, \n\nThank you for reaching out. I will be out of office Friday, June 27th. If you need technical assistance, please reach out to support@flocksafety.com support@flocksafety.com . \n\nIf this is an urgent issue & you need to work with a Customer Success Manager, please reach out to Amanda (amanda.spees@flocksafety.com amanda.spees@flocksafety.com )\n\nThank you\n\n\n-- \n\n\t\nGaby Mahoney\nCustomer Success Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n\n https://www.facebook.com/flocksafety \n\n https://www.youtube.com/c/FlockSafety \n\n <https://gifo.srv.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n\t\n \n\n\t\n https://www.fox5atlanta.com/news/over-6m-stolen-electronics-recovered-massive-georgia-porch-pirate-operation?utm_campaign=EmailSignature&utm_source=Success&utm_medium=Wisestamp \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/zpnzXLAamrJq.png>"
+    }
+  ]
+}

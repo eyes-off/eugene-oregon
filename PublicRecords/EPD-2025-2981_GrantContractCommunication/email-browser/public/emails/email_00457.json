@@ -1,0 +1,47 @@
+{
+  "subject": "Response to RFI",
+  "from": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "to": {
+    "name": "Caroline.fraher@flocksafety.com",
+    "address": "Caroline.fraher@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Good morning, Caroline, \n \nFirst, I would like to introduce myself virtually.  Thank you for Flock�s response to our recent RFI that closed on December 11th.  \n \nWe are in the process of reviewing responses.  I am sending this email you with the attached City of Eugene IT Software review questions.  These are more specific questions that our IT would need answered in a review.  \n \n \nJake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 518,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Good morning, Caroline, \n \nFirst, I would like to introduce myself virtually.  Thank you for Flock�s response to our recent RFI that closed on December 11th.  \n \nWe are in the process of reviewing responses.  I am sending this email you with the attached City of Eugene IT Software review questions.  These are more specific questions that our IT would need answered in a review.  \n \n \nJake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work"
+    }
+  ]
+}

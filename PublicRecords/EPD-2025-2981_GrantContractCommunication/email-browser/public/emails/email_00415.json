@@ -1,0 +1,47 @@
+{
+  "subject": "Flock intros",
+  "from": {
+    "name": "Caroline Fraher",
+    "address": "caroline.fraher@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A;Randy Zobel;David Johnson",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD;randy.zobel@flocksafety.com;david.johnson@flocksafety.com",
+    "type": "EX;SMTP;SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nHi Detective DeWitt, \n\nIntroducing you to...\n\nRandy Zobel - Commercial Sales\nDavid Johnson - Territory Sales Manager, Oregon \n\nRandy and David - our wonderful partners at Eugene PD wanted to get your contact info to pass along to other LE agencies and businesses who are interested in partnering with Flock too. Thanks all!\n\t\n \nCaroline Fraher\nTerritory Sales Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n <https://cdn.gifo.wisestamp.com/s/rfm1/108062/26/trans.png>  310-844-3659 call/text <tel:310-844-3659call/text>    <https://cdn.gifo.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n <https://cdn.gifo.wisestamp.com/s/rfcustom/108062/26/trans.png>  caroline.fraher@flocksafety.com caroline.fraher@flocksafety.com \n\n\t\n \n\n\t\n https://link.flocksafety.com/40mzzZB \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/QNLPvRoWrGG.png>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 864,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nHi Detective DeWitt, \n\nIntroducing you to...\n\nRandy Zobel - Commercial Sales\nDavid Johnson - Territory Sales Manager, Oregon \n\nRandy and David - our wonderful partners at Eugene PD wanted to get your contact info to pass along to other LE agencies and businesses who are interested in partnering with Flock too. Thanks all!\n\t\n \nCaroline Fraher\nTerritory Sales Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n <https://cdn.gifo.wisestamp.com/s/rfm1/108062/26/trans.png>  310-844-3659 call/text <tel:310-844-3659call/text>    <https://cdn.gifo.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n <https://cdn.gifo.wisestamp.com/s/rfcustom/108062/26/trans.png>  caroline.fraher@flocksafety.com caroline.fraher@flocksafety.com \n\n\t\n \n\n\t\n https://link.flocksafety.com/40mzzZB \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/QNLPvRoWrGG.png>"
+    }
+  ]
+}

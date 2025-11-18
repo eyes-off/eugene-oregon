@@ -1,0 +1,71 @@
+{
+  "subject": "RE: App Issue | Eugene PD",
+  "from": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "to": {
+    "name": "Flock Safety Support",
+    "address": "support@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "I searched the Flock Safety app using the license plate (from the photo), 7 days and Statewide, and receive a bunch of hits.  I then removed the license plate and upload the photo and I get that response using the same parameters.\n\nDerek\n \nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Cell � 541-743-6192\n \n\n \nFrom: Flock Safety Support <support@flocksafety.com> \nSent: Thursday, May 22, 2025 12:28 PM\nTo: DEWITT Derek A <DDeWitt@eugene-or.gov>\nCc: gaby.mahoney@flocksafety.com\nSubject: RE: App Issue | Eugene PD\n \n[EXTERNAL ?]\nHi Derek,\n \nThanks for reaching out and providing the additional details. When uploading an image it's going to search the database for hits and if this vehicle wasn't flagged or showed up on a camera recently it will not return any results to the search. Had this vehicle passed a camera or put on a list prior to taking the image?\n \nStay safe,\nRob C.\n \n \n--------------- Original Message ---------------\nFrom: DEWITT Derek A [ddewitt@eugene-or.gov]\nSent: 5/20/2025, 5:53 PM\nTo: gaby.mahoney@flocksafety.com gaby.mahoney@flocksafety.com ; support@flocksafety.com support@flocksafety.com \nSubject: RE: App Issue | Eugene PD\nThis is prior to clicking the search button.  Its not detecting the plate so its unable to upload the image to even search against anything.\n \nDerek\n \nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Cell � 541-743-6192\n \n\n \nFrom: Gaby Mahoney <gaby.mahoney@flocksafety.com gaby.mahoney@flocksafety.com > \nSent: Tuesday, May 20, 2025 2:50 PM\nTo: Flock Safety Support <support@flocksafety.com support@flocksafety.com >\nCc: DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov >\nSubject: App Issue | Eugene PD\n \n[EXTERNAL ?]\n \nHi @Flock Safety Support support@flocksafety.com  \n \nEugene PD said they are having some issues with taking a photo in the app and it isn't registering the license plate when taking a photo with the camera icon (photo attached). \n \n@DEWITT Derek A ddewitt@eugene-or.gov   can you confirm this vehicle drove past a Flock camera along with making sure you modified the \"timeframe\" for when it could have (under vehicle fingerprint on the search tab - example: 24 hours, 7 days, etc)? Just so our team has has much information as possible.\n \nThank you,\nGaby \n \n \n\n \n \n-- \n\t\nGaby Mahoney\nCustomer Success Manager\n\n https://www.instagram.com/flocksafety/ \n\n\n <https://gifo.srv.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\t\n https://kesq.com/news/2024/06/24/flock-license-plate-reading-cameras-have-led-to-more-than-30-arrests-says-palm-springs-police-department?utm_campaign=EmailSignature&utm_source=Success&utm_medium=Wisestamp \n\t\n \n\t\n \n <https://tracy.srv.wisestamp.com/px/wsid/RqGQ2llW1Gw.png> \n \nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com support+unsubscribe@flocksafety.com .\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000kK8tN&from=ext> \n\nthread::YdlCehC1Jl69f2EWPq1Q8A4::",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 3415,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 3
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "I searched the Flock Safety app using the license plate (from the photo), 7 days and Statewide, and receive a bunch of hits.  I then removed the license plate and upload the photo and I get that response using the same parameters.\n\nDerek\n \nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Cell � 541-743-6192"
+    },
+    {
+      "from": "Flock Safety Support <support@flocksafety.com>",
+      "sent": "Thursday, May 22, 2025 12:28 PM",
+      "to": "DEWITT Derek A <DDeWitt@eugene-or.gov>",
+      "cc": "gaby.mahoney@flocksafety.com",
+      "subject": "RE: App Issue | Eugene PD",
+      "body": "[EXTERNAL ?]\nHi Derek,\n \nThanks for reaching out and providing the additional details. When uploading an image it's going to search the database for hits and if this vehicle wasn't flagged or showed up on a camera recently it will not return any results to the search. Had this vehicle passed a camera or put on a list prior to taking the image?\n \nStay safe,\nRob C.\n \n \n--------------- Original Message ---------------"
+    },
+    {
+      "from": "DEWITT Derek A [ddewitt@eugene-or.gov]",
+      "sent": "5/20/2025, 5:53 PM",
+      "to": "gaby.mahoney@flocksafety.com gaby.mahoney@flocksafety.com ; support@flocksafety.com support@flocksafety.com",
+      "cc": null,
+      "subject": "RE: App Issue | Eugene PD",
+      "body": "This is prior to clicking the search button.  Its not detecting the plate so its unable to upload the image to even search against anything.\n \nDerek\n \nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\nDesk Phone � 541-682-2682\nWork Cell � 541-743-6192"
+    },
+    {
+      "from": "Gaby Mahoney <gaby.mahoney@flocksafety.com gaby.mahoney@flocksafety.com >",
+      "sent": "Tuesday, May 20, 2025 2:50 PM",
+      "to": "Flock Safety Support <support@flocksafety.com support@flocksafety.com >",
+      "cc": "DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov >",
+      "subject": "App Issue | Eugene PD",
+      "body": "[EXTERNAL ?]\n \nHi @Flock Safety Support support@flocksafety.com  \n \nEugene PD said they are having some issues with taking a photo in the app and it isn't registering the license plate when taking a photo with the camera icon (photo attached). \n \n@DEWITT Derek A ddewitt@eugene-or.gov   can you confirm this vehicle drove past a Flock camera along with making sure you modified the \"timeframe\" for when it could have (under vehicle fingerprint on the search tab - example: 24 hours, 7 days, etc)? Just so our team has has much information as possible.\n \nThank you,\nGaby \n \n \n\n \n \n-- \n\t\nGaby Mahoney\nCustomer Success Manager\n\n https://www.instagram.com/flocksafety/ \n\n\n <https://gifo.srv.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\t\n https://kesq.com/news/2024/06/24/flock-license-plate-reading-cameras-have-led-to-more-than-30-arrests-says-palm-springs-police-department?utm_campaign=EmailSignature&utm_source=Success&utm_medium=Wisestamp \n\t\n \n\t\n \n <https://tracy.srv.wisestamp.com/px/wsid/RqGQ2llW1Gw.png> \n \nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com support+unsubscribe@flocksafety.com .\n <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000kK8tN&from=ext> \n\nthread::YdlCehC1Jl69f2EWPq1Q8A4::"
+    }
+  ]
+}

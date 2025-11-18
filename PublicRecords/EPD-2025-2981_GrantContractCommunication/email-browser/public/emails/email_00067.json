@@ -1,0 +1,47 @@
+{
+  "subject": "Flock Safety Case # 01086773",
+  "from": {
+    "name": "Flock Support Acknowledgement",
+    "address": "donotreply@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "You don't often get email from donotreply@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nThank you for contacting Flock Safety Support. We have received your email and opened a support case # 01086773 for you.\n\nA support team member will review your request and respond within 48 business hours (Monday-Friday, 8 AM - 8 PM EST).\n\nFor urgent assistance, please visit our Help Center https://help.flocksafety.com/  or call us at 1-866-901-1781 during business hours and reference the case number above for immediate support.\n\nStay safe,\nFlock Safety Support\n\n\nOriginal Message:\n\nGood morning,\n\nI have been locked out of my account for several days now. Can my access get restored? I am the administrator of our account for Eugene Police Department and this needs to be resolved ASAP.\n\nThank you,\n\nDerek\n\nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. - 5:30 p.m.\nDesk Phone - 541-682-2682\nWork Cell - 541-743-6192\n\n[cid:image001.png@01DBD45B.C0408D50]\n\nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com.  <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000lb9am&from=ext>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1415,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "You don't often get email from donotreply@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nThank you for contacting Flock Safety Support. We have received your email and opened a support case # 01086773 for you.\n\nA support team member will review your request and respond within 48 business hours (Monday-Friday, 8 AM - 8 PM EST).\n\nFor urgent assistance, please visit our Help Center https://help.flocksafety.com/  or call us at 1-866-901-1781 during business hours and reference the case number above for immediate support.\n\nStay safe,\nFlock Safety Support\n\n\nOriginal Message:\n\nGood morning,\n\nI have been locked out of my account for several days now. Can my access get restored? I am the administrator of our account for Eugene Police Department and this needs to be resolved ASAP.\n\nThank you,\n\nDerek\n\nDetective D. DeWitt\nFinancial Crimes Unit\nSpecial Weapons and Tactics Team\nBackground Investigations Team\nEugene Police Department\n300 County Club Road\nEugene, OR 97401\nWork hours: Tuesday - Friday 7:30 a.m. - 5:30 p.m.\nDesk Phone - 541-682-2682\nWork Cell - 541-743-6192\n\n[cid:image001.png@01DBD45B.C0408D50]\n\nTo unsubscribe from this group and stop receiving emails from it, send an email to support+unsubscribe@flocksafety.com.  <https://flocksafety.my.salesforce.com/servlet/servlet.ImageServer?oid=00D6g000003tehf&esid=018Pi00000lb9am&from=ext>"
+    }
+  ]
+}

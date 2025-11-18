@@ -1,0 +1,55 @@
+{
+  "subject": "FW: SR2412_0888 - Flock Safety Software Review Request",
+  "from": {
+    "name": "BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX"
+  },
+  "to": {
+    "name": "COSTIN Timothy M;Caroline Fraher",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=143fcdea409f4042b5fdaaf6b5f7fc65-CEPDTMC;caroline.fraher@flocksafety.com",
+    "type": "EX;SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "This was a response I got from IT regarding the software review.  We are good to go. \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work\n\n \n\n \n\n\n\n \n\nFrom: Eugene Service Desk <Service.Desk@ci.eugene.or.us> \nSent: Thursday, January 23, 2025 2:16 PM\nTo: SHANNON Travis S <TShannon@eugene-or.gov>\nCc: BURKE Jacob T <JBurke@eugene-or.gov>\nSubject: SR2412_0888 - Flock Safety Software Review Request\n\n \n\nHi Travis and Jake. Good news - the software review of Flock Safety is complete and approved, with the condition that you use SSO. I will create a \"CI\" for it so it appears on the approved software list. \n\nPlease let me know if you have any questions. \n\nThanks,\n\nMargot, ISD\n\n \n\n------ do not delete below this line ---------\n\n@OPERATION@='MAIL' @RFC_NUMBER@='SR2412_0888'\n\n \n\n@OPERATION@='MAIL'\n@REQUEST_ID@='106602'",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 910,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 1
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "This was a response I got from IT regarding the software review.  We are good to go. \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work"
+    },
+    {
+      "from": "Eugene Service Desk <Service.Desk@ci.eugene.or.us>",
+      "sent": "Thursday, January 23, 2025 2:16 PM",
+      "to": "SHANNON Travis S <TShannon@eugene-or.gov>",
+      "cc": "BURKE Jacob T <JBurke@eugene-or.gov>",
+      "subject": "SR2412_0888 - Flock Safety Software Review Request",
+      "body": "Hi Travis and Jake. Good news - the software review of Flock Safety is complete and approved, with the condition that you use SSO. I will create a \"CI\" for it so it appears on the approved software list. \n\nPlease let me know if you have any questions. \n\nThanks,\n\nMargot, ISD\n\n \n\n------ do not delete below this line ---------\n\n@OPERATION@='MAIL' @RFC_NUMBER@='SR2412_0888'\n\n \n\n@OPERATION@='MAIL'\n@REQUEST_ID@='106602'"
+    }
+  ]
+}

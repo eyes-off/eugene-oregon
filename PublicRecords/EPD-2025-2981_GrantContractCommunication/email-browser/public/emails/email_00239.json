@@ -1,0 +1,63 @@
+{
+  "subject": "Re: FW: Flock - Evidence.com integration",
+  "from": {
+    "name": "Emily Atzen",
+    "address": "emily.atzen@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nHello Derek,  \n\nThanks for sending this over! You need to log into Flock, go to Admin > Integrations > + Add New Integration > Axon. \n\nFrom there, you can fill in the needed information to integrate the APIs. Does this make sense? Let me know if you have any questions!\n\nOn Thu, Apr 10, 2025 at 2:18?PM DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov > wrote:\n\n\n\tSee the response below from our IT department regarding the axon integration.\n\n\t\n\tDerek\n\n\t \n\n\tDetective D. DeWitt\n\n\tFinancial Crimes Unit\n\n\tSpecial Weapons and Tactics Team\n\n\tBackground Investigations Team\n\n\tEugene Police Department\n\n\t300 County Club Road\n\n\tEugene, OR 97401\n\n\tWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\n\n\tDesk Phone � 541-682-2682\n\n\tWork Cell � 541-743-6192\n\n\t \n\n\tFrom: SHANNON Travis S <TShannon@eugene-or.gov TShannon@eugene-or.gov > \n\tSent: Thursday, April 10, 2025 2:17 PM\n\tTo: DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov >\n\tSubject: RE: Flock - Evidence.com integration\n\n\t \n\n\tYes, these are API settings that I can create.\n\n\t \n\n\tI will need to know the proper permissions Flock needs. Here�s an example of the things I can enable:\n\n\t \n\n\t \n\n\tTravis Shannon\n\tSr. Application Support Technician\n\tEugene Police Department\n\n\t300 Country Club Road\n\n\tEugene, Oregon 97401\n\t(541)-682-5806\n\n\t \n\n\tFrom: DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov > \n\tSent: Thursday, April 10, 2025 14:14\n\tTo: SHANNON Travis S <TShannon@eugene-or.gov TShannon@eugene-or.gov >\n\tSubject: Flock - Evidence.com integration\n\n\t \n\n\tTravis,\n\n\t \n\n\tWhen we get ready to link Evidence.com to Flock.  This is the information that we need to make it happen.  Do you have this available?\n\n\t \n\n\tDerek\n\n\t \n\n\tDetective D. DeWitt\n\n\tFinancial Crimes Unit\n\n\tSpecial Weapons and Tactics Team\n\n\tBackground Investigations Team\n\n\tEugene Police Department\n\n\t300 County Club Road\n\n\tEugene, OR 97401\n\n\tWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\n\n\tDesk Phone � 541-682-2682\n\n\tWork Cell � 541-743-6192\n\n\t \n\n\n\n-- \n\n\n\nEmily Atzen\nRegional Customer Success Manager I\n\n\n\n https://www.instagram.com/flocksafety/ \n <https://cdn.gifo.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n\t\n \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/eGdYJ1PPRrN.png>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 2260,
+    "has_signature": true,
+    "has_quoted_reply": true,
+    "thread_count": 2
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nHello Derek,  \n\nThanks for sending this over! You need to log into Flock, go to Admin > Integrations > + Add New Integration > Axon. \n\nFrom there, you can fill in the needed information to integrate the APIs. Does this make sense? Let me know if you have any questions!\n\nOn Thu, Apr 10, 2025 at 2:18?PM DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov > wrote:\n\n\n\tSee the response below from our IT department regarding the axon integration.\n\n\t\n\tDerek\n\n\t \n\n\tDetective D. DeWitt\n\n\tFinancial Crimes Unit\n\n\tSpecial Weapons and Tactics Team\n\n\tBackground Investigations Team\n\n\tEugene Police Department\n\n\t300 County Club Road\n\n\tEugene, OR 97401\n\n\tWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\n\n\tDesk Phone � 541-682-2682\n\n\tWork Cell � 541-743-6192"
+    },
+    {
+      "from": "SHANNON Travis S <TShannon@eugene-or.gov TShannon@eugene-or.gov >",
+      "sent": "Thursday, April 10, 2025 2:17 PM",
+      "to": "DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov >",
+      "cc": null,
+      "subject": "RE: Flock - Evidence.com integration",
+      "body": "Yes, these are API settings that I can create.\n\n\t \n\n\tI will need to know the proper permissions Flock needs. Here�s an example of the things I can enable:\n\n\t \n\n\t \n\n\tTravis Shannon\n\tSr. Application Support Technician\n\tEugene Police Department\n\n\t300 Country Club Road\n\n\tEugene, Oregon 97401\n\t(541)-682-5806"
+    },
+    {
+      "from": "DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov >",
+      "sent": "Thursday, April 10, 2025 14:14",
+      "to": "SHANNON Travis S <TShannon@eugene-or.gov TShannon@eugene-or.gov >",
+      "cc": null,
+      "subject": "Flock - Evidence.com integration",
+      "body": "Travis,\n\n\t \n\n\tWhen we get ready to link Evidence.com to Flock.  This is the information that we need to make it happen.  Do you have this available?\n\n\t \n\n\tDerek\n\n\t \n\n\tDetective D. DeWitt\n\n\tFinancial Crimes Unit\n\n\tSpecial Weapons and Tactics Team\n\n\tBackground Investigations Team\n\n\tEugene Police Department\n\n\t300 County Club Road\n\n\tEugene, OR 97401\n\n\tWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\n\n\tDesk Phone � 541-682-2682\n\n\tWork Cell � 541-743-6192\n\n\t \n\n\n\n-- \n\n\n\nEmily Atzen\nRegional Customer Success Manager I\n\n\n\n https://www.instagram.com/flocksafety/ \n <https://cdn.gifo.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n\t\n \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/eGdYJ1PPRrN.png>"
+    }
+  ]
+}

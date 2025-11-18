@@ -1,0 +1,47 @@
+{
+  "subject": "Demo January 16th",
+  "from": {
+    "name": "BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX"
+  },
+  "to": {
+    "name": "Caroline Fraher;SHANNON Travis S;ashley.hickman@flocksafety.com;kevin.jung@flocksafety.com",
+    "address": "caroline.fraher@flocksafety.com;/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=acff57caa8e8470ba73707ec653b61f5-CEPDTSS;ashley.hickman@flocksafety.com;kevin.jung@flocksafety.com",
+    "type": "SMTP;EX;SMTP;SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "I double checked my calendar after our meeting and discovered I had an all-city division manager meeting scheduled for me while I was away on vacation for Jan 16th at 10am.  Does it work to schedule the demo for the afternoon, from 1-4pm?  \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 385,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "I double checked my calendar after our meeting and discovered I had an all-city division manager meeting scheduled for me while I was away on vacation for Jan 16th at 10am.  Does it work to schedule the demo for the afternoon, from 1-4pm?  \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work"
+    }
+  ]
+}

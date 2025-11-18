@@ -1,0 +1,47 @@
+{
+  "subject": "MMS RFS 647549, [ULT10] Utility Locate Ticket, CHAMBERS ST NEAR NORTHVIEW BLVD, EUGENE",
+  "from": {
+    "name": "talia.e.voelsch@ci.eugene.or.us",
+    "address": "talia.e.voelsch@ci.eugene.or.us",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "michelle.mishoe@flocksafety.com",
+    "address": "michelle.mishoe@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Talia has emailed you an RFS with the following note:\n\nFyi, No city facilities at this location. Thanks Tia\n\nClick here to view the RFS https://ceapps2.eugene-or.gov/DocumentViewer/Email/ViewDocument/WKdhxH2QXvtNeU_cTK1cWE-l-zRLN1Y8RG4HVA_81vo1",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 244,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Talia has emailed you an RFS with the following note:\n\nFyi, No city facilities at this location. Thanks Tia\n\nClick here to view the RFS https://ceapps2.eugene-or.gov/DocumentViewer/Email/ViewDocument/WKdhxH2QXvtNeU_cTK1cWE-l-zRLN1Y8RG4HVA_81vo1"
+    }
+  ]
+}

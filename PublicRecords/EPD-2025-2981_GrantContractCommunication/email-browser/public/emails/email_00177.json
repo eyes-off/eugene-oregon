@@ -1,0 +1,47 @@
+{
+  "subject": "Out of Office 5/9-Returning 5/12 RE: Eugene PD | Flyer Communication",
+  "from": {
+    "name": "Kristen MacLeod",
+    "address": "kristen.macleod@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "You don't often get email from kristen.macleod@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nHello, \nThank you for your message. I am out of the office 5/9 and will return Monday, 5/12. I will respond as soon as possible upon my return; if you need immediate assistance, please get in touch with Trevor Chandler, Director of Public Affairs (trevor.chandler@flocksafety.com hector.soliman@flocksafety.com ). \n\nThank you, and I look forward to connecting with you when I get back.\n\nSincerely,\nKristen\n\n\n\n\n-- \n\n\t\nKristen MacLeod\nShe/Her\nPublic Affairs Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n\n\t\n https://www.flocksafety.com/articles/1000-missing-persons-reunited?utm_campaign=EmailSignature&utm_source=ExternalCommunications&utm_medium=Wisestamp \n\n\t\n \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/oqJKGQNorVDa.png>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 893,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "You don't often get email from kristen.macleod@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nHello, \nThank you for your message. I am out of the office 5/9 and will return Monday, 5/12. I will respond as soon as possible upon my return; if you need immediate assistance, please get in touch with Trevor Chandler, Director of Public Affairs (trevor.chandler@flocksafety.com hector.soliman@flocksafety.com ). \n\nThank you, and I look forward to connecting with you when I get back.\n\nSincerely,\nKristen\n\n\n\n\n-- \n\n\t\nKristen MacLeod\nShe/Her\nPublic Affairs Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n\n\t\n https://www.flocksafety.com/articles/1000-missing-persons-reunited?utm_campaign=EmailSignature&utm_source=ExternalCommunications&utm_medium=Wisestamp \n\n\t\n \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/oqJKGQNorVDa.png>"
+    }
+  ]
+}

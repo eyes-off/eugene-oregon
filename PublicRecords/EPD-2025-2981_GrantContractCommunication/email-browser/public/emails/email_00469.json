@@ -1,0 +1,47 @@
+{
+  "subject": "Re: Fw: scan to email from P5CEPD 11/14/2024 15:04",
+  "from": {
+    "name": "Caroline Fraher",
+    "address": "caroline.fraher@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nThanks! Mutually signed copy attached for your records. I will introduce you to your account manager, Jaime Alfaro, who can get you trained on how to use the system. \n\n <https://sales.flocksafety.com/t/102869/open/af7e8348-541f-40dd-b338-8b32a11ea4c1.gif> \n\nOn Thu, Nov 14, 2024 at 5:16?PM DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov > wrote:\n\n\n\tHere is the MOU.  Took forever.  Can you connect me with someone ASAP to get the training and how to add users so I can roll it off to investigators. \n\n\tDerek\n\n\tDetective D. DeWitt\n\tFinancial Crimes Unit\n\tSpecial Weapons and Tactics Team\n\tEugene Police Department\n\t300 County Club Road\n\tEugene, OR 97401\n\tWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\n\tDesk Phone � 541-682-2682\n\tWork Celll � 541-743-6192",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 785,
+    "has_signature": false,
+    "has_quoted_reply": true,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nThanks! Mutually signed copy attached for your records. I will introduce you to your account manager, Jaime Alfaro, who can get you trained on how to use the system. \n\n <https://sales.flocksafety.com/t/102869/open/af7e8348-541f-40dd-b338-8b32a11ea4c1.gif> \n\nOn Thu, Nov 14, 2024 at 5:16?PM DEWITT Derek A <DDeWitt@eugene-or.gov DDeWitt@eugene-or.gov > wrote:\n\n\n\tHere is the MOU.  Took forever.  Can you connect me with someone ASAP to get the training and how to add users so I can roll it off to investigators. \n\n\tDerek\n\n\tDetective D. DeWitt\n\tFinancial Crimes Unit\n\tSpecial Weapons and Tactics Team\n\tEugene Police Department\n\t300 County Club Road\n\tEugene, OR 97401\n\tWork hours: Tuesday - Friday 7:30 a.m. � 5:30 p.m.\n\tDesk Phone � 541-682-2682\n\tWork Celll � 541-743-6192"
+    }
+  ]
+}

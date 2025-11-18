@@ -1,0 +1,47 @@
+{
+  "subject": "Out of Office Re: Meet with Flock @ Fri, Jan 3, 2025 8:00am � 9:00am (GMT-08)",
+  "from": {
+    "name": "Caroline Fraher",
+    "address": "caroline.fraher@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX"
+  },
+  "cc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nHi,\n\nI am out of office until Friday, January 3 with limited access to email.\nTo reach our Support team please email support@flocksafety.com.\n\n\n--\n\n[image: photo]\n\n\nCaroline Fraher\nTerritory Sales Manager\n\n\n\n[image: instagram] https://www.instagram.com/flocksafety/\n\n\n\n[image: youtube] https://www.youtube.com/c/FlockSafety\n\n[image: icon] 310-844-3659 call/text <310-844-3659call/text>  [image: icon]\nflocksafety.com\n\n\n[image: icon] caroline.fraher@flocksafety.com\n\n[image: App Banner Image]\n\n\n[image: App Banner Image] https://share.transistor.fm/s/47f4a2a5\n\n[image: __tpx__]",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 590,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nHi,\n\nI am out of office until Friday, January 3 with limited access to email.\nTo reach our Support team please email support@flocksafety.com.\n\n\n--\n\n[image: photo]\n\n\nCaroline Fraher\nTerritory Sales Manager\n\n\n\n[image: instagram] https://www.instagram.com/flocksafety/\n\n\n\n[image: youtube] https://www.youtube.com/c/FlockSafety\n\n[image: icon] 310-844-3659 call/text <310-844-3659call/text>  [image: icon]\nflocksafety.com\n\n\n[image: icon] caroline.fraher@flocksafety.com\n\n[image: App Banner Image]\n\n\n[image: App Banner Image] https://share.transistor.fm/s/47f4a2a5\n\n[image: __tpx__]"
+    }
+  ]
+}

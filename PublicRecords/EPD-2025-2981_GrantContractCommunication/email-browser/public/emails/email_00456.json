@@ -1,0 +1,47 @@
+{
+  "subject": "Response to RFI",
+  "from": {
+    "name": "BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX"
+  },
+  "to": {
+    "name": "Caroline.fraher@flocksafety.com",
+    "address": "Caroline.fraher@flocksafety.com",
+    "type": "SMTP"
+  },
+  "cc": {
+    "name": "DEWITT Derek A",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD",
+    "type": "EX"
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Good morning, Caroline, \n\n \n\nI was given your contact information from Detective Derek Dewitt.  Thank you for Flock�s response to our recent RFI that closed on December 11th.  First, I would like to introduce myself virtually and let you know I am the project manager for the RFI on behalf of Eugene PD.  \n\n \n\nWe are still in the process of reviewing responses to narrow down a selection.  The city IT department has requested some additional information that would assist us in making the decision moving forward. The attached excel document is the City of Eugene IT Software review that would be required before moving forward in any procurement process.   \n\n \n\nCan you or someone from Flock provide answers to the questions in the software review questionnaire?  \n\n \n\nIf you have any questions, please feel free to contact me directly.  My cell is 541-990-5516.  \n\n \n\nThank you \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1026,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Good morning, Caroline, \n\n \n\nI was given your contact information from Detective Derek Dewitt.  Thank you for Flock�s response to our recent RFI that closed on December 11th.  First, I would like to introduce myself virtually and let you know I am the project manager for the RFI on behalf of Eugene PD.  \n\n \n\nWe are still in the process of reviewing responses to narrow down a selection.  The city IT department has requested some additional information that would assist us in making the decision moving forward. The attached excel document is the City of Eugene IT Software review that would be required before moving forward in any procurement process.   \n\n \n\nCan you or someone from Flock provide answers to the questions in the software review questionnaire?  \n\n \n\nIf you have any questions, please feel free to contact me directly.  My cell is 541-990-5516.  \n\n \n\nThank you \n\n \n\n \n\nJake Burke\n\nCaptain � Investigations Division\n\nEugene Police Department\n\n300 Country Club Road\n\nEugene, Oregon 97401\n\n(541) 682-5895 work"
+    }
+  ]
+}

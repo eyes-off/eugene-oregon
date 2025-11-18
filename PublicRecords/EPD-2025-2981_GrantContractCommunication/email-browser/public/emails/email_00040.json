@@ -1,0 +1,47 @@
+{
+  "subject": "Flock Poles to Existing Poles",
+  "from": {
+    "name": "Matt Triana",
+    "address": "matt.triana@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A;JONES Bret",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD;/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=c65f8fbf10274ed09c5d6d526763bc26-CEWEBCJ",
+    "type": "EX;EX"
+  },
+  "cc": {
+    "name": "Gaby Mahoney;Zach Bondi;Colby Durden;Andrew Albright;Matthew Yang",
+    "address": "gaby.mahoney@flocksafety.com;zach.bondi@flocksafety.com;colby.durden@flocksafety.com;andrew.albright@flocksafety.com;matt.yang@flocksafety.com",
+    "type": "SMTP;SMTP;SMTP;SMTP;SMTP"
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nHi Detective,\n\nStarting a separate email chain to discuss the Flock pole vandalism. Below are the numbers for the Flock poles as of today. The installed number is inclusive of the ones that have been pushed down.\n\nFlock poles installed - 17\nFlock poles not yet installed - 5\n\nWe all agree that we need to proceed with relocating these to existing poles. Best way would probably be to get on a call with Brett to go over city managed traffic light locations. If he cannot get on a call, I can send him location info for each of the Flock poles and then he can let us know the nearest traffic light that works. From there we can make the switch on your Deployment Plan https://planner.flocksafety.com/planning-portal/deployment-tracker/public/0f92e14e805f30bf6acf29115ee1c58235beb45cca096a11d91f4f54a8de201176a35dc694b577a2e4d159d2a58e3f0f3961f45e01640c902f1b3f39dc543ad2  and then get back to moving on these.\n\nPlease let me know if you have any questions.\n\nRegards\n\t\n \nMatt Triana\nProject Manager\n\n\n\n\t\n https://www.foxbusiness.com/technology/safety-tech-company-launches-tool-help-law-enforcement-fight-human-trafficking?utm_campaign=EmailSignature&utm_source=PMO&utm_medium=Wisestamp \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/oqJleE79JwmM.png>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1266,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nHi Detective,\n\nStarting a separate email chain to discuss the Flock pole vandalism. Below are the numbers for the Flock poles as of today. The installed number is inclusive of the ones that have been pushed down.\n\nFlock poles installed - 17\nFlock poles not yet installed - 5\n\nWe all agree that we need to proceed with relocating these to existing poles. Best way would probably be to get on a call with Brett to go over city managed traffic light locations. If he cannot get on a call, I can send him location info for each of the Flock poles and then he can let us know the nearest traffic light that works. From there we can make the switch on your Deployment Plan https://planner.flocksafety.com/planning-portal/deployment-tracker/public/0f92e14e805f30bf6acf29115ee1c58235beb45cca096a11d91f4f54a8de201176a35dc694b577a2e4d159d2a58e3f0f3961f45e01640c902f1b3f39dc543ad2  and then get back to moving on these.\n\nPlease let me know if you have any questions.\n\nRegards\n\t\n \nMatt Triana\nProject Manager\n\n\n\n\t\n https://www.foxbusiness.com/technology/safety-tech-company-launches-tool-help-law-enforcement-fight-human-trafficking?utm_campaign=EmailSignature&utm_source=PMO&utm_medium=Wisestamp \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/oqJleE79JwmM.png>"
+    }
+  ]
+}

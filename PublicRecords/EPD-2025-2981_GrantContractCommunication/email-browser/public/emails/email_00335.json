@@ -1,0 +1,55 @@
+{
+  "subject": "RE: Virtual meeting with Flock",
+  "from": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "to": {
+    "name": "BURKE Jacob T;Caroline Fraher",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8;caroline.fraher@flocksafety.com",
+    "type": "EX;SMTP"
+  },
+  "cc": {
+    "name": "CHOTERUNGRUANGKORN Nikki",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=3307b2d95d0f4201ae79b5e05bc9fbee-CEPDNXC",
+    "type": "EX"
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "Hello Caroline,\n \nCan Flock�s legal team meet Thursday afternoon around 2:30 PST virtually?\n \nFrom: BURKE Jacob T <JBurke@eugene-or.gov> \nSent: Thursday, March 6, 2025 12:44 PM\nTo: Caroline Fraher <caroline.fraher@flocksafety.com>; COSTIN Timothy M <TCostin@eugene-or.gov>\nCc: CHOTERUNGRUANGKORN Nikki <NChoterungruangkorn@eugene-or.gov>\nSubject: Virtual meeting with Flock\n \nTim, \n \nCan we try to arrange a virtual meeting between our legal teams and Caroline and myself for next week?  This would be to discuss any issues and hopefully finalize the contract.   Earlier in the week is preferred.  Here are some days and times that may work.  Please let me know and we can set up a calendar invite.  \n \nTuesday- After 11\nWednesday-  8-9, 11am, or anytime after 12pm\nThursday-  Anytime except 1p-2p.  \n \nThank you \n \n \nJake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 950,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 1
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "Hello Caroline,\n \nCan Flock�s legal team meet Thursday afternoon around 2:30 PST virtually?"
+    },
+    {
+      "from": "BURKE Jacob T <JBurke@eugene-or.gov>",
+      "sent": "Thursday, March 6, 2025 12:44 PM",
+      "to": "Caroline Fraher <caroline.fraher@flocksafety.com>; COSTIN Timothy M <TCostin@eugene-or.gov>",
+      "cc": "CHOTERUNGRUANGKORN Nikki <NChoterungruangkorn@eugene-or.gov>",
+      "subject": "Virtual meeting with Flock",
+      "body": "Tim, \n \nCan we try to arrange a virtual meeting between our legal teams and Caroline and myself for next week?  This would be to discuss any issues and hopefully finalize the contract.   Earlier in the week is preferred.  Here are some days and times that may work.  Please let me know and we can set up a calendar invite.  \n \nTuesday- After 11\nWednesday-  8-9, 11am, or anytime after 12pm\nThursday-  Anytime except 1p-2p.  \n \nThank you \n \n \nJake Burke\nCaptain � Investigations Division\nEugene Police Department\n300 Country Club Road\nEugene, Oregon 97401\n(541) 682-5895 work"
+    }
+  ]
+}

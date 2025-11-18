@@ -1,0 +1,47 @@
+{
+  "subject": "Eunene PD - ALPR Cameras - County Locations - 1014138",
+  "from": {
+    "name": "Matthew Yang",
+    "address": "matt.yang@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "JONES Bret",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=c65f8fbf10274ed09c5d6d526763bc26-CEWEBCJ",
+    "type": "EX"
+  },
+  "cc": {
+    "name": "Matt Triana;Samantha Black",
+    "address": "matt.triana@flocksafety.com;samantha.black@flocksafety.com",
+    "type": "SMTP;SMTP"
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "You don't often get email from matt.yang@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nHi Bret, \n\nWe have 3 locations that lie in County ROW. I heard that you're already discussing these with Shashi over at the county, but I don't have any contact information for them. Can you loop me into that conversation so I can provide whatever is needed? \n\nParent Location\t Latitude\t Longitude\t Address\t Pole\t \nP#051 River Rd @ Corliss Ln SB\t 44.09344436\t -123.1272837\t 1930 River Rd, Eugene, OR 97404, United States\t Existing Infrastructure\t \nP#050 Cobur Rd @ County Farm Rd SB\t 44.10595594\t -123.0567065\t 3800 Coburg Rd, Eugene, OR 97408, United States\t New 12' pole\t \nP#025 N Delta Hwy @ Randy Pape Beltline NB\t 44.09320456\t -123.0983195\t 1010 Green Acres Rd, Eugene, OR 97408, United States\t New 12' pole\t \n\n-- \n\n\t\n \nMatthew Yang\nPermitting Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n <https://gifo.srv.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n\t\n https://www.flocksafety.com/articles/flock-safety-secures-major-funding?utm_campaign=EmailSignature&utm_source=Permitting&utm_medium=Wisestamp \n\n\t\n \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/N8veDmd2XwqA.png>",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1252,
+    "has_signature": true,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "You don't often get email from matt.yang@flocksafety.com. Learn why this is important <https://aka.ms/LearnAboutSenderIdentification>  \n\t\n\n[EXTERNAL ?]\n\nHi Bret, \n\nWe have 3 locations that lie in County ROW. I heard that you're already discussing these with Shashi over at the county, but I don't have any contact information for them. Can you loop me into that conversation so I can provide whatever is needed? \n\nParent Location\t Latitude\t Longitude\t Address\t Pole\t \nP#051 River Rd @ Corliss Ln SB\t 44.09344436\t -123.1272837\t 1930 River Rd, Eugene, OR 97404, United States\t Existing Infrastructure\t \nP#050 Cobur Rd @ County Farm Rd SB\t 44.10595594\t -123.0567065\t 3800 Coburg Rd, Eugene, OR 97408, United States\t New 12' pole\t \nP#025 N Delta Hwy @ Randy Pape Beltline NB\t 44.09320456\t -123.0983195\t 1010 Green Acres Rd, Eugene, OR 97408, United States\t New 12' pole\t \n\n-- \n\n\t\n \nMatthew Yang\nPermitting Manager\n\n\n\n https://www.instagram.com/flocksafety/ \n <https://gifo.srv.wisestamp.com/s/rfw4/108062/26/trans.png>  flocksafety.com \n\n\t\n https://www.flocksafety.com/articles/flock-safety-secures-major-funding?utm_campaign=EmailSignature&utm_source=Permitting&utm_medium=Wisestamp \n\n\t\n \n\n\t\n \t \n <https://tracy.srv.wisestamp.com/px/wsid/N8veDmd2XwqA.png>"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "subject": "OR - Eugene PD Phase 1 + Flock Safety",
+  "from": {
+    "name": "Matt Triana",
+    "address": "matt.triana@flocksafety.com",
+    "type": "SMTP"
+  },
+  "to": {
+    "name": "DEWITT Derek A;BURKE Jacob T",
+    "address": "/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=1f064f8867eb47eaa4104d2690e0ab57-CEPDDAD;/o=ExchangeLabs/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=956bef8eab0d44dc8fc1482ce9b06926-7818a864-a8",
+    "type": "EX;EX"
+  },
+  "cc": {
+    "name": "Emily Atzen;Caroline Fraher;David Johnson",
+    "address": "emily.atzen@flocksafety.com;caroline.fraher@flocksafety.com;david.johnson@flocksafety.com",
+    "type": "SMTP;SMTP;SMTP"
+  },
+  "bcc": {
+    "name": null,
+    "address": null,
+    "type": null
+  },
+  "body": "[EXTERNAL ?]\n\nHi Captain & Detective,\n\n\nThank you all for your time today on the kick off call.\n\n\nTo recap, we are installing: 57 of our LPR cameras on a mix of existing poles, standard 12' Flock poles, and MASH test poles (ODOT locations). The majority of these fall within city and county ROWs with a handful falling ODOT ROW. Per our call, at this time we are pending the official 'yes' from ODOT.\n\n\nOur permitting team is diligently working to secure the necessary approvals. We acknowledge that this process can be time-consuming, and we assure you that we will provide timely updates as soon as permit approvals are obtained. If you come across contacts for anyone within \n\n\n\n\nHere is also the deployment tracker link we discussed. The Deployment Tracker [link https://planner.flocksafety.com/planning-portal/deployment-tracker ] will be your go-to resource for the latest dates/statuses for each location, and it also shows the latest statuses on your other locations that may not yet be in this phase. \n\nIn order to use this tracker, you will need to set up your FlockOS login information. You should receive an email from hello@flocksafety.com hello@flocksafety.com  with instructions. \n\n\n\nImplementation Status\t # of Devices\t Notes\t \nPlanning\t 0\t \t\nPermitting\t 57\t F001-F057\t \nInstalling\t 0\t \t\nIn Service\t 0\t \n\t\n\nFor additional location information, please navigate to your Deployment Plan (link here) https://planner.flocksafety.com/planning-portal/deployment-tracker/public/0f92e14e805f30bf6acf29115ee1c582fb84f5a18bfa866c4d81a0a2bb69fa947c69170fc1a1d44eb6b6763d27128087a45d900051bba878beafbe3abb1f89bd \n\nand the Deployment Tracker [link https://planner.flocksafety.com/planning-portal/deployment-tracker ] \n\nI look forward to working with you on this project!\n\n\n\n\nBest,",
+  "metadata": {
+    "billing_information": null,
+    "categories": null,
+    "importance": "Normal",
+    "mileage": null,
+    "sensitivity": "Normal"
+  },
+  "analysis": {
+    "length": 1782,
+    "has_signature": false,
+    "has_quoted_reply": false,
+    "thread_count": 0
+  },
+  "thread_messages": [
+    {
+      "from": null,
+      "sent": null,
+      "to": null,
+      "cc": null,
+      "subject": null,
+      "body": "[EXTERNAL ?]\n\nHi Captain & Detective,\n\n\nThank you all for your time today on the kick off call.\n\n\nTo recap, we are installing: 57 of our LPR cameras on a mix of existing poles, standard 12' Flock poles, and MASH test poles (ODOT locations). The majority of these fall within city and county ROWs with a handful falling ODOT ROW. Per our call, at this time we are pending the official 'yes' from ODOT.\n\n\nOur permitting team is diligently working to secure the necessary approvals. We acknowledge that this process can be time-consuming, and we assure you that we will provide timely updates as soon as permit approvals are obtained. If you come across contacts for anyone within \n\n\n\n\nHere is also the deployment tracker link we discussed. The Deployment Tracker [link https://planner.flocksafety.com/planning-portal/deployment-tracker ] will be your go-to resource for the latest dates/statuses for each location, and it also shows the latest statuses on your other locations that may not yet be in this phase. \n\nIn order to use this tracker, you will need to set up your FlockOS login information. You should receive an email from hello@flocksafety.com hello@flocksafety.com  with instructions. \n\n\n\nImplementation Status\t # of Devices\t Notes\t \nPlanning\t 0\t \t\nPermitting\t 57\t F001-F057\t \nInstalling\t 0\t \t\nIn Service\t 0\t \n\t\n\nFor additional location information, please navigate to your Deployment Plan (link here) https://planner.flocksafety.com/planning-portal/deployment-tracker/public/0f92e14e805f30bf6acf29115ee1c582fb84f5a18bfa866c4d81a0a2bb69fa947c69170fc1a1d44eb6b6763d27128087a45d900051bba878beafbe3abb1f89bd \n\nand the Deployment Tracker [link https://planner.flocksafety.com/planning-portal/deployment-tracker ] \n\nI look forward to working with you on this project!\n\n\n\n\nBest,"
+    }
+  ]
+}
