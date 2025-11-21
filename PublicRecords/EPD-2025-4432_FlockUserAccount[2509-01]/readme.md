@@ -5,7 +5,7 @@
 https://www.muckrock.com/foi/eugene-6582/user-accounts-for-the-departments-flock-deployment-2509-01-193913/
 
 ## Status
-* Open
+* Closed - Fulfilled
 
 ## Request 
 To the Public Records Manager,
