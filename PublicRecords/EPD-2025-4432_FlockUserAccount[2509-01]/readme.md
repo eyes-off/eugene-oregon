@@ -7,6 +7,9 @@ https://www.muckrock.com/foi/eugene-6582/user-accounts-for-the-departments-flock
 ## Status
 * Closed - Fulfilled
 
+## Cost Estimate
+* $53.27
+
 ## Request 
 To the Public Records Manager,
 
