@@ -11,13 +11,14 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 
 ## Public Records Requests
 # Active Requests
-| Label                                      | Submitted | Status                                           | Fee                 | Link   |
-|--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
-| Flock Camera Locations                     | 6/12/2025 | Closed - DA Appeal Denied <br>Reviewing Options  |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-2738_CameraLocations) |
-| Grant, Contracts, Communications           | 6/26/2025 | Open - Partially Fulfilled                       | $1651,37            | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-2981_GrantContractCommunication) |
-| Flock Safety ALPR Audits                   | 8/25/2025 | Open - Fee Issued                                | $291,503.52 <br>Unpaid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
-| Oregon Retail Theft Grant Reports          | 11/3/2025 | Open                                  	        |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4979_ORTGrantReports%5B2511-12%5D)
-| Private Businesses Sharing Flock Data      | 11/3/2025 | Open                                  	        |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-49XX_BusinessesSharingFlockData%5B2511-13%5D)
+| Label                                      | Submitted  | Status                                           | Fee                 | Link   |
+|--------------------------------------------|------------|--------------------------------------------------|---------------------|--------|
+| Flock Camera Locations                     | 6/12/2025  | Closed - DA Appeal Denied <br>Reviewing Options  |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-2738_CameraLocations) |
+| Grant, Contracts, Communications           | 6/26/2025  | Open - Partially Fulfilled                       | $1651,37            | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-2981_GrantContractCommunication) |
+| Flock Safety ALPR Audits                   | 8/25/2025  | Open - Fee Issued                                | $291,503.52 <br>Unpaid | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3891_FlockAudits) |
+| Oregon Retail Theft Grant Reports          | 11/3/2025  | Open                                  	         |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4979_ORTGrantReports%5B2511-12%5D)
+| Private Businesses Sharing Flock Data      | 11/3/2025  | Open                                  	         |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-49XX_BusinessesSharingFlockData%5B2511-13%5D)
+| Flock Audit Data                           | 11/22/2025 | Open                                  	         |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-5306_FlockAuditData%5B2511-15%5D)
 
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
