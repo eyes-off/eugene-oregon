@@ -4,7 +4,10 @@
 * EPD-2025-4987
 
 ## Status
-* Closed - Records Denied
+* Closed - Fulfilled
+
+## Cost Estimate
+* $13.86
 
 ## Request 
 To the Public Records Manager, 
