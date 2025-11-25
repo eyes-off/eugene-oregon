@@ -23,6 +23,7 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
+| Businesses Sharing Flock Data With EPD     | 11/4/2025 | Closed - Fulfilled                   	        | $13.86              | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4987_BusinessesSharingFlockData%5B2511-13%5D)
 | Flock User Accounts                        | 9/30/2025 | Closed - Fulfilled                               | $54.27              | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4432_FlockUserAccount%5B202509-01%5D) |
 | Inventory of Surveillance Tech             | 8/17/2025 | Closed - Fulfilled                               | $426.16 <br>Paid    | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-3762_InventoryOfSurveillanceTech) |
 | Flock Safety Licence Plate Records         | 10/5/2025 | Closed - Records Denied                          |                     | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4510_RequestForLicensePlateRecords) |
