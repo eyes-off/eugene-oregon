@@ -4,7 +4,10 @@
 * EPD-2025-4979
 
 ## Status
-* Open
+* Closed - Fulfilled
+
+## Cost Estimate
+* $27.72
 
 ## Request 
 To the Public Records Manager,
