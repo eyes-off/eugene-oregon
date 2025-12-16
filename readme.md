@@ -21,6 +21,7 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
+| Flock Emails, Dec 4-5, 2025                | 12/7/2025 | Closed - Fulfilled                               | $92.03              | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/PRR-2025-947_FlockEmailsDec4-5%5B2512-01%5D)
 | Oregon Retail Theft Grant Reports          | 11/3/2025 | Closed - Fulfilled                    	        | $27.72              | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4979_ORTGrantReports%5B2511-12%5D)
 | Businesses Sharing Flock Data With EPD     | 11/4/2025 | Closed - Fulfilled                   	        | $13.86              | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4987_BusinessesSharingFlockData%5B2511-13%5D)
 | Flock User Accounts                        | 9/30/2025 | Closed - Fulfilled                               | $54.27              | [Link](https://github.com/eyes-off/eugene-oregon/tree/main/PublicRecords/EPD-2025-4432_FlockUserAccount%5B202509-01%5D) |
