@@ -4,7 +4,7 @@
 * EPD-2025-5306
 
 ## Status
-* Open
+* Closed - Fulfilled
 
 ## Request 
 To the Public Records Manager,
